@@ -30,3 +30,6 @@ Mar 27th, 2026
 External Content
 USDC on Arc: A Capital-Efficient Path for Banks
 Mar 27th, 2026
+External Content
+Introducing the ARC Whitepaper: Exploring Arc’s Native Coordination Asset
+May 11th, 2026
