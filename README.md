@@ -33,3 +33,6 @@ Mar 27th, 2026
 External Content
 Introducing the ARC Whitepaper: Exploring Arc’s Native Coordination Asset
 May 11th, 2026
+Blog
+Arc x Wirex: card settlement infrastructure on Arc
+Jul 22nd, 2026
