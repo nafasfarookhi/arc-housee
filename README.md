@@ -36,3 +36,7 @@ May 11th, 2026
 Blog
 Arc x Wirex: card settlement infrastructure on Arc
 Jul 22nd, 2026
+Video
+· Agentic Economy
+Event Replay: Building an Agentic Economy on Arc with RSoft Agentic Bank
+Apr 2nd, 2026
