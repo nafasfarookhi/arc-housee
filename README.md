@@ -40,3 +40,6 @@ Video
 · Agentic Economy
 Event Replay: Building an Agentic Economy on Arc with RSoft Agentic Bank
 Apr 2nd, 2026
+Video
+Circle Developer Grants: From idea to funded
+May 14th, 2026
