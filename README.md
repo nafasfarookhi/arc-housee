@@ -3,7 +3,7 @@ daily cheking
 Video
 
 
-Blog
+
 Arc x QuickNode: Arc RPC infrastructure you can actually ship o
 Feb 4th, 2026
 Video
