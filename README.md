@@ -15,7 +15,7 @@ Mar 27th, 2026
 Video
 How to Use USDC in Real-World Payments Application (Part 1)
 Dec 9th, 2025
-
+Fungo could bring new use cases to NFTs.
 Goldsky 🤝 Arc Builders Fund: real-time data infrastructure for onchain finance
 May 26th, 2026
 Video
