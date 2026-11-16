@@ -11,7 +11,7 @@ Roundtable: Arc the Economic OS w/Jeremy Allaire and Nikhil Chandhok Pt. 3
 Dec 6th, 2025
 Blog
 TRM Labs joins Arc: blockchain intelligence + monitoring for enterprise-grade apps
-Mar 27th, 2026
+Mar 27th, 
 Video
 How to Use USDC in Real-World Payments Application (Part 1)
 Dec 9th, 2025
